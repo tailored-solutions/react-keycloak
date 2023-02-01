@@ -1,5 +1,6 @@
 {
   "name": "root",
+  "version" : "3.4.1",
   "private": true,
   "scripts": {
     "prepare": "lerna bootstrap --no-ci",
